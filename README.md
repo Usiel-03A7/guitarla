@@ -6,7 +6,6 @@
 
 Una moderna tienda en línea de guitarras eléctricas, acústicas y bajos, desarrollada con React y Vite.
 
-![Captura de pantalla de la tienda](./src/assets/screenshot.jpg) <!-- Añade tu propia imagen luego -->
 
 ## ✨ Características principales
 
